@@ -1,0 +1,15 @@
+.home {
+  background-image: url(/src/images/Group_48_1.jpg);
+  height: 740px;
+  background-size: cover;
+padding: 180px 205px;
+  
+}
+.home_container {
+  width: 1190px;
+  margin: 0 auto;
+}
+.home-text {
+  color: #fff;
+  max-width: 440px;
+}

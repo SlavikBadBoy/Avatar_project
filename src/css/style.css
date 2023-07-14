@@ -1,1 +1,7 @@
-    
+@import "/src/css/header.css";
+@import "/src/css/main.css";
+body {
+  font-family: "Hammersmith One", sans-serif;
+  font-family: "Headland One", serif;
+  font-family: "Inter", sans-serif;
+}
