@@ -41,9 +41,14 @@
   width: 141px;
   height: 42px;
   flex-shrink: 0;
-  background-image: url(/src/images/Group\ 14.svg);
+  background-image: url(/src/images/group14.svg);
   padding-top: 11px;
 }
+.switcher-text {
+  margin-left: -130px;
+  
+}
 .switcher {
-  margin-left: -140px;
+  display: flex;
+ 
 }
