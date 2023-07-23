@@ -1,14 +1,12 @@
 .header {
   height: 150px;
   padding-top: 39px;
-  flex-shrink: 0;
   background-image: linear-gradient(
       to right,
       rgba(43, 74, 97, 0.7),
       rgba(43, 74, 97, 0.8)
     ),
     url(/src/images/Rectangle_104.jpg);
-  background-repeat: no-repeat;
   background-size: cover;
   margin-bottom: 5px;
 }
@@ -18,7 +16,6 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-
   width: 1190px;
   margin: 0 auto;
 }
@@ -45,10 +42,10 @@
   padding-top: 11px;
 }
 .switcher-text {
-  margin-left: -130px;
-  
-}
-.switcher {
+  margin-left: -240px;
   display: flex;
- 
 }
+.switcher-text nav:hover {
+  color: #94cfff;
+}
+

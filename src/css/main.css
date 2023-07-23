@@ -45,7 +45,6 @@
   margin-top: -10px;
 }
 .jake {
-  width: 44xx;
   height: 350px;
   background: #fff;
   display: flex;
@@ -173,3 +172,19 @@
 .navi-text {
   color: #000;
 }
+.arrow-1 {
+  background-image: url(/src/images/Rectangle421.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.arrow-2 {
+  background-image: url(/src/images/Rectangle423.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.arrow-3 {
+  background-image: url(/src/images/Rectangle422.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+

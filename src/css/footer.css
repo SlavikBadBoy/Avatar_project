@@ -1,0 +1,25 @@
+.footer {
+  height: 223px;
+  background-image: linear-gradient(
+      to right,
+      rgba(43, 74, 97, 0.7),
+      rgba(43, 74, 97, 0.8)
+    ),
+    url(/src/images/Rectangle12.jpg);
+  background-size: cover;
+}
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  color: #fff;
+  width: 1190px;
+  padding-top: 82px;
+}
+.line {
+  width: 2px;
+  height: 153px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+}
