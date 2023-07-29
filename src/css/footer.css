@@ -1,5 +1,5 @@
 .footer {
-  height: 223px;
+  padding: 75px 0;
   background-image: linear-gradient(
       to right,
       rgba(43, 74, 97, 0.7),
@@ -11,15 +11,40 @@
 .footer-container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   margin: 0 auto;
   color: #fff;
-  width: 1190px;
-  padding-top: 82px;
+  width: 1030px;
 }
-.line {
-  width: 2px;
-  height: 153px;
-  background: #fff;
+.footer-logo {
   display: flex;
+}
+.footer-content {
+  display: flex;
+  color: #fff;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 15px;
+  position: relative;
+}
+.footer-content::before {
+  content: "";
+  height: 155px;
+  width: 2px;
+  background-color: #fff;
+  position: absolute;
+  left: -80px;
+  top: -20px;
+}
+
+.avatar-theway {
+  display: flex;
+  margin-top: 35px;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 400;
   align-items: center;
 }
