@@ -1,0 +1,192 @@
+.home {
+    background-image: url(/src/images/Group_48_1.jpg);
+    height: 740px;
+    background-size: cover;
+    padding: 180px 205px;
+  }
+  .home_container {
+    width: 1190px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .home-content {
+    background-image: url(/src/images/Rectangle-53.svg);
+    background-repeat: no-repeat;
+    background-position: 125px 44px;
+  }
+  .home-text {
+    color: #fff;
+    max-width: 440px;
+    margin-bottom: 40px;
+  }
+  .home-social {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    align-items: center;
+  }
+  
+  .home-button {
+    color: #26c6ea;
+    text-align: center;
+    font-family: HeadlandOne;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 260px;
+    height: 80px;
+    flex-shrink: 0;
+    background-image: url(/src/images/group14copy.svg);
+    margin-left: 70px;
+    padding-top: 27px;
+    margin-top: -10px;
+  }
+  .jake {
+    height: 350px;
+    background: #fff;
+    display: flex;
+  }
+  .jake_container {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    background-image: url(/src/images/Rectangle8.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin-bottom: 10px;
+  }
+  .jake_text_h1 {
+    display: flex;
+    color: #0a3853;
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 75px;
+    justify-content: space-between;
+    
+  }
+  .jake-parachraf {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .jake-sully {
+    color: #000;
+    text-align: justify;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: -300px;
+  }
+  .watch-trailer {
+    background-image: url(/src/images/Rectangle10.jpg);
+    background-size: cover;
+    height: 741px;
+    align-items: center;
+  }
+  .watch-trailer-container {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+  }
+  .watch-trailer-button {
+    color: #26c6ea;
+    text-align: center;
+    font-family: HeadlandOne;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 260px;
+    height: 80px;
+    flex-shrink: 0;
+    background-image: url(/src/images/group14copy.svg);
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+    justify-content: space-between;
+    margin-left: 800px;
+    flex-wrap: wrap;
+    margin-top: 330px;
+  }
+  .learn-navi {
+    background-image: url(/src/images/Rectangle20.jpg);
+    background-size: cover;
+    height: 704px;
+  }
+  .learn-navi-container {
+    width: 1030px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 45px;
+  }
+  .learn-navi-title {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 58px;
+    color: #141414;
+    text-align: justify;
+    font-family: HeadlandOne;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 240px;
+  }
+  .learn-navi-cards {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 36px;
+    column-gap: 35px;
+    width: 100%;
+  }
+  .learn-navi-card {
+    flex-basis: 320px;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 35px 0;
+    height: 240px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 24px;
+    display: flex;
+    font-family: HeadlandOne;
+  }
+  .ua-text {
+    color: #141414;
+  }
+  .navi-text {
+    color: #000;
+  }
+  .arrow-1 {
+    background-image: url(/src/images/Rectangle421.png);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .arrow-2 {
+    background-image: url(/src/images/Rectangle423.png);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .arrow-3 {
+    background-image: url(/src/images/Rectangle422.png);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  
